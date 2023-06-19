@@ -24,9 +24,4 @@ A resposta do Supabase é impressa no console.
 
 A função retorna um dicionário com a mensagem "Image uploaded successfully".
 
-Espero que isso ajude a entender o funcionamento do código. Se você tiver alguma dúvida específica sobre alguma parte do código, sinta-se à vontade para perguntar.
-
-
-
-
 video : https://youtu.be/kESfeOLssj8
